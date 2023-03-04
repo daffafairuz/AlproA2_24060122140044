@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1677578638 source:c:\users\sarto\documents\c\praktikum 1\praktikum1\jarakglbb.c
+	<stdio.h>
+	<stdlib.h>
+
+1677578638 source:c:\users\sarto\documents\c\praktikum 1\praktikum1\jarakpbola.c
+	<stdio.h>
+
+1677596106 source:c:\users\sarto\documents\c\praktikum 1\praktikum1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1677579970 source:c:\users\sarto\documents\c\praktikum 1\praktikum1\volbolakerct.c
+	<stdio.h>
+
+1677595650 source:c:\users\sarto\documents\c\praktikum 1\praktikum1\gayasentr.c
+	<stdio.h>
+
+1677595882 source:c:\users\sarto\documents\c\praktikum 1\praktikum1\luaskelllayang.c
+	<stdio.h>
+
