@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1678332240 source:c:\users\sarto\documents\c\praktikum 1\praktikum3\main.c
+	<stdio.h>
+
+1678021595 source:c:\users\sarto\documents\c\praktikum 1\praktikum3\jumderet.c
+	<stdio.h>
+
+1678332097 source:c:\users\sarto\documents\c\praktikum 1\praktikum3\bilpriman.c
+	<stdio.h>
+
+1678287068 source:c:\users\sarto\documents\c\praktikum 1\praktikum3\bilsempn.c
+	<stdio.h>
+
+1678075936 source:c:\users\sarto\documents\c\praktikum 1\praktikum3\cekbilprima.c
+	<stdio.h>
+
+1678077181 source:c:\users\sarto\documents\c\praktikum 1\praktikum3\cekbilsemp.c
+	<stdio.h>
+
+1678075213 source:c:\users\sarto\documents\c\praktikum 1\praktikum3\faktorbil.c
+	<stdio.h>
+
+1678162565 source:c:\users\sarto\documents\c\praktikum 1\praktikum3\coba.c
+	<stdio.h>
+
