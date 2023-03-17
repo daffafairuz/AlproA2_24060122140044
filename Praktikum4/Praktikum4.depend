@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1679041961 source:c:\users\sarto\documents\c\praktikum 1\praktikum4\array.c
+	<stdio.h>
+
+1678764956 source:c:\users\sarto\documents\c\praktikum 1\praktikum4\main.c
+	<stdio.h>
+
+1679037245 source:c:\users\sarto\documents\c\praktikum 1\praktikum4\nilmax2.c
+	<stdio.h>
+
+1679037569 source:c:\users\sarto\documents\c\praktikum 1\praktikum4\frekniltabel.c
+	<stdio.h>
+	<stdlib.h>
+
+1678767976 source:c:\users\sarto\documents\c\praktikum 1\praktikum4\matrks.c
+	<stdio.h>
+
+1678797298 source:c:\users\sarto\documents\c\praktikum 1\praktikum4\no2.c
+	<stdio.h>
+
+1679041946 source:c:\users\sarto\documents\c\praktikum 1\praktikum4\jumbarkolmat.c
+	<stdio.h>
+	<stdlib.h>
+
+1678816963 source:c:\users\sarto\documents\c\praktikum 1\praktikum4\simetritabel.c
+	<stdio.h>
+	<stdlib.h>
+
+1679041578 source:c:\users\sarto\documents\c\praktikum 1\praktikum4\jumfrekniltabel.c
+	<stdio.h>
+	<stdlib.h>
+
