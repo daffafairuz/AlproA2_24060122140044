@@ -1,0 +1,9 @@
+pokemon1 500
+pokemon2 250
+pokemon3 3000
+pokemon4 700
+pokemon5 900
+YUTA 1000
+dapa 2100
+ponso 30000
+bangsatya 10000

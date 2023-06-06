@@ -1,0 +1,5 @@
+daftar pokemon tierA
+pokemon1 500
+pokemon2 250
+pokemon4 700
+pokemon5 900

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1686060288 source:c:\users\sarto\documents\c\praktikum 1\sequentialfile\sequntialfile\kelompoknilai.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
